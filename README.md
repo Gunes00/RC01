@@ -2,4 +2,4 @@
 
 ## C tabanlı yazılım dili kedyC
 
-### *** Yapım aşamasında ***
+***Yapım aşamasında***
