@@ -1,5 +1,5 @@
 # RC01
 
-## C tabanlı yazılım dili kedyC
+## Database
 
 ***Yapım aşamasında***
